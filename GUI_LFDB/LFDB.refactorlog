@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="1c2bdae5-3529-4c9a-9a64-b7263203bd91" ChangeDateTime="03/18/2019 10:20:55">
+    <Property Name="ElementName" Value="[dbo].[FoundT].[LName]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[FoundT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="FName" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="64c7a5d5-ff77-45e6-8e02-98efe782e8c6" ChangeDateTime="03/18/2019 10:21:00">
+    <Property Name="ElementName" Value="[dbo].[FoundT].[Lplace]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[FoundT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Fplace" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="f5dbcadd-b65c-45ea-bb1d-29b36fc4b4f6" ChangeDateTime="03/18/2019 10:21:04">
+    <Property Name="ElementName" Value="[dbo].[FoundT].[LdateTime]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[FoundT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="FdateTime" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="e141dcc7-20b4-4528-927a-6d85d26a0266" ChangeDateTime="03/18/2019 10:21:08">
+    <Property Name="ElementName" Value="[dbo].[FoundT].[LHeight]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[FoundT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="FHeight" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="50d2125e-4ac5-48ee-b189-17ba8a910a2f" ChangeDateTime="03/18/2019 10:21:15">
+    <Property Name="ElementName" Value="[dbo].[FoundT].[LDisc]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[FoundT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="FDisc" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="796243b8-3e07-43a7-9be6-948d28f12508" ChangeDateTime="03/18/2019 10:21:18">
+    <Property Name="ElementName" Value="[dbo].[FoundT].[LEmailAddress]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[FoundT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="FEmailAddress" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="9f9054e7-afb2-4733-9f77-53b64fc73ede" ChangeDateTime="03/18/2019 10:21:33">
+    <Property Name="ElementName" Value="[dbo].[FoundT].[LAge]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[FoundT]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="FAge" />
+  </Operation>
+</Operations>

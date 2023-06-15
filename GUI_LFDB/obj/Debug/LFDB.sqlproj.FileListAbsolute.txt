@@ -1,0 +1,5 @@
+C:\Users\ankit\Desktop\guidb\LFDB\bin\Debug\LFDB.dacpac
+C:\Users\ankit\Desktop\guidb\LFDB\bin\Debug\LFDB.dll
+C:\Users\ankit\Desktop\guidb\LFDB\bin\Debug\LFDB.pdb
+C:\Users\ankit\Desktop\guidb\LFDB\obj\Debug\LFDB.dll
+C:\Users\ankit\Desktop\guidb\LFDB\obj\Debug\LFDB.pdb

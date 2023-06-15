@@ -1,0 +1,7 @@
+C:\Users\ankit\Desktop\guidb\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\ankit\Desktop\guidb\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\ankit\Desktop\guidb\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\ankit\Desktop\guidb\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\ankit\Desktop\guidb\DataLibrary\obj\Debug\DataLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ankit\Desktop\guidb\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\ankit\Desktop\guidb\DataLibrary\obj\Debug\DataLibrary.pdb

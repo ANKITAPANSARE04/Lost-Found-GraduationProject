@@ -1,0 +1,23 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[FoundT]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Rename
+       [dbo].[FoundT].[FName] (Column)
+       [dbo].[FoundT].[Fplace] (Column)
+       [dbo].[FoundT].[FdateTime] (Column)
+       [dbo].[FoundT].[FHeight] (Column)
+       [dbo].[FoundT].[FDisc] (Column)
+       [dbo].[FoundT].[FEmailAddress] (Column)
+       [dbo].[FoundT].[FAge] (Column)
+     Table rebuild
+       [dbo].[FoundT] (Table)
+
+** Supporting actions
